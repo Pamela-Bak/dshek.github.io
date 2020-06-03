@@ -7,41 +7,28 @@ Having fashion design as your profession sometimes allows you to meet glamorous 
 
 
 
-### Markdown
-Fashion is not necessarily about labels. It’s not about brands. It’s about something else that comes from within you” -Ralph Lauren (“Glamour” 1). Fashion designers are artists who work in apparel retails and other wholesale or manufacturing establishments, who create and design original apparel with their artistic abilities. These designers need an abundant amount of skills, such as active listening, critical thinking, active learning, coordination, and decision making, social perceptiveness, and more.
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fashion is not necessarily about labels. It’s not about brands. It’s about something else that comes from within you” -Ralph Lauren (“Glamour” 1). Fashion designers are artists who work in apparel retails and other wholesale or manufacturing establishments, who create and design original apparel with their artistic abilities. These designers need an abundant amount of skills, such as active listening, critical thinking, active learning, coordination, and decision making, social perceptiveness, and more.
 
-```markdown
-Syntax highlighted code block
+```Be Inspired With Our Work
 
-# Header 1
-New Trends 
-## Header 2
-Coming Designs
-### Header 3
-Women Sections
+# New Trends 
+Check out our latest Trends
 
-- Bulleted
-Dress
-Shirts
-Blouse
+## New Collection Coming Soon!
+- 2021 Winter Fall
 
-- List
-Winter
-Summer 
-Autumn
-Spring
+### Opening a New Branch
+- SunShine City 7th Road
 
+### Women Sections
+-Dresses
+- Skirts
+-Blouses
 
-1. Numbered
-Suits
-Shirts
-T-Shirts
-
-2. List
-Customer 1
-Customer 2
-Customer 3
+### Men Section
+- Suits
+- Shirts
+- T-Shirts
 
 **Bold** and _Italic_ and `Code` text
 All products are guaranteed high quality, Enjoy Festival Discounts!

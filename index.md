@@ -1,32 +1,55 @@
-## Welcome to GitHub Pages
+## Welcome to Dshek Fashions
 
-You can use the [editor on GitHub](https://github.com/Pamela-Bak/dshek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The fashion design career, has recently emerged as one of the most popular and competitive among young people. 
+Those who actually succeed in design have a very individualistic personal style and don’t follow trends set by others. 
+Having fashion design as your profession sometimes allows you to meet glamorous people. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
-
+Fashion is not necessarily about labels. It’s not about brands. It’s about something else that comes from within you” -Ralph Lauren (“Glamour” 1). Fashion designers are artists who work in apparel retails and other wholesale or manufacturing establishments, who create and design original apparel with their artistic abilities. These designers need an abundant amount of skills, such as active listening, critical thinking, active learning, coordination, and decision making, social perceptiveness, and more.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+New Trends 
 ## Header 2
+Coming Designs
 ### Header 3
+Women Sections
 
 - Bulleted
+Dress
+Shirts
+Blouse
+
 - List
+Winter
+Summer 
+Autumn
+Spring
+
 
 1. Numbered
+Suits
+Shirts
+T-Shirts
+
 2. List
+Customer 1
+Customer 2
+Customer 3
 
 **Bold** and _Italic_ and `Code` text
+All products are guaranteed high quality, Enjoy Festival Discounts!
 
-[Link](url) and ![Image](src)
+[Link](https://www.facebook.com/dshekcollection/?ref=bookmarks) and ![Image](https://www.facebook.com/dshekcollection/photos/rpp.1036132786404740/4077625938922061/?type=3&theater)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Dshek Designs](https://dshekinc.com/).
 
 ### Jekyll Themes
 

@@ -11,21 +11,21 @@ Having fashion design as your profession sometimes allows you to meet glamorous 
 
 ```Be Inspired With Our Work
 
-# New Trends 
+#New Trends 
 Check out our latest Trends
 
 ## New Collection Coming Soon!
 - 2021 Winter Fall
 
-### Opening a New Branch
+###Opening a New Branch
 - SunShine City 7th Road
 
-### Women Sections
+###Women Sections
 -Dresses
 - Skirts
 -Blouses
 
-### Men Section
+###Men Section
 - Suits
 - Shirts
 - T-Shirts
@@ -33,14 +33,11 @@ Check out our latest Trends
 **Bold** and _Italic_ and `Code` text
 All products are guaranteed high quality, Enjoy Festival Discounts!
 
-[Link](https://www.facebook.com/dshekcollection/?ref=bookmarks) and ![Image](https://www.facebook.com/dshekcollection/photos/rpp.1036132786404740/4077625938922061/?type=3&theater)
-```
+https://www.facebook.com/dshekcollection/?ref=bookmarks)
 
 For more details see [Dshek Designs](https://dshekinc.com/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pamela-Bak/dshek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(https://github.com/Pamela-Bak/dshek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

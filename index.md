@@ -9,9 +9,9 @@ Having fashion design as your profession sometimes allows you to meet glamorous 
 
 ### Fashion is not necessarily about labels. It’s not about brands. It’s about something else that comes from within you” -Ralph Lauren (“Glamour” 1). Fashion designers are artists who work in apparel retails and other wholesale or manufacturing establishments, who create and design original apparel with their artistic abilities. These designers need an abundant amount of skills, such as active listening, critical thinking, active learning, coordination, and decision making, social perceptiveness, and more.
 
-```Be Inspired With Our Work
+### Be Inspired With Our Work
 
-#New Trends 
+# New Trends 
 Check out our latest Trends
 
 ## New Collection Coming Soon!
@@ -21,22 +21,20 @@ Check out our latest Trends
 - SunShine City 7th Road
 
 ### Women Sections
--Dresses
-- Skirts
--Blouses
+1. Dresses
+2. Skirts
+3. Blouses
 
 ### Men Section
-- Suits
-- Shirts
-- T-Shirts
+1. Suits
+2. Shirts
+3. T-Shirts
 
 All products are guaranteed high quality, Enjoy Festival Discounts!
 
-https://www.facebook.com/dshekcollection/?ref=bookmarks)
+```https://www.facebook.com/dshekcollection/?ref=bookmarks)
 For more details see [Dshek Designs](https://dshekinc.com/).
 
 (https://github.com/Pamela-Bak/dshek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -17,24 +17,22 @@ Check out our latest Trends
 ## New Collection Coming Soon!
 - 2021 Winter Fall
 
-###Opening a New Branch
+### Opening a New Branch
 - SunShine City 7th Road
 
-###Women Sections
+### Women Sections
 -Dresses
 - Skirts
 -Blouses
 
-###Men Section
+### Men Section
 - Suits
 - Shirts
 - T-Shirts
 
-**Bold** and _Italic_ and `Code` text
 All products are guaranteed high quality, Enjoy Festival Discounts!
 
 https://www.facebook.com/dshekcollection/?ref=bookmarks)
-
 For more details see [Dshek Designs](https://dshekinc.com/).
 
 (https://github.com/Pamela-Bak/dshek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
